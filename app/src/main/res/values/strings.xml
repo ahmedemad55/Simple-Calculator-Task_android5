@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_android5</string>
+
+    <string name="first_num">Enter first number</string>
+    <string name="second_num">Enter second number</string>
+    <string name="tv_operation">Choose an operation</string>
+</resources>
